@@ -1,0 +1,6 @@
+framework module Pods_RxSwiftDemo_masterTests {
+  umbrella header "Pods-RxSwiftDemo_masterTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
